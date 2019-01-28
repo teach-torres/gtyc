@@ -17,7 +17,7 @@
 
 Gestión del conocimiento es una de las tareas que cobra cada vez mayor fuerza en los recursos que consume una empresa, manifestados en el personal o la infraestructura tecnológica que hacen posible el funcionamiento. Además de los factores de produccion tradicional, como el trabajo, el dinero y la tierra, hay un cuarto factor de producción que es cada vez más importante, el conocimiento.
 
-Nuestra sociedad ha realizado cambios sorporendentes, inicialmente se producian bienes industriales que facilitaban la vida de las personal, y ahora tenemos una sociedad basada en el conocimiento a través de producción de información. Si desea tomar decisiones correctas, es importante que la información relevante sea enviada de manera rápida, orientada a la necesidad y comprensible. La información debe estar en el tiempo y en el lugar correcto, y además debe ser de calidad. 
+Nuestra sociedad ha realizado cambios sorprendentes, inicialmente se producian bienes industriales que facilitaban la vida de las personal, y ahora tenemos una sociedad basada en el conocimiento a través de producción de información. Si desea tomar decisiones correctas, es importante que la información relevante sea enviada de manera rápida, orientada a la necesidad y comprensible. La información debe estar en el tiempo y en el lugar correcto, y además debe ser de calidad. 
 
 Para generar conocimiento de manera exitosa es indispensable que la empresa tenga la capacidad para combinar de manera eficiente los componentes y las fuentes generadoras de este conocimiento. Pero se requiere del aporte del conocimiento individual de los miembros de la organización para transformarlo en conocimiento colectivo y organizativo.
 
