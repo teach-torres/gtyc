@@ -15,13 +15,16 @@
 
 ## Introduccion
 
-> Give me six hours to chop down a tree and I will spend the first four sharpening the axe. (Abraham Lincoln)
+Gestión del conocimiento es una de las tareas que cobra cada vez mayor fuerza en los recursos que consume una empresa, manifestados en el personal o la infraestructura tecnológica que hacen posible el funcionamiento. Además de los factores de produccion tradicional, como el trabajo, el dinero y la tierra, hay un cuarto factor de producción que es cada vez más importante, el conocimiento.
 
-A collection of full-stack resources for programmers.
+Nuestra sociedad ha realizado cambios sorporendentes, inicialmente se producian bienes industriales que facilitaban la vida de las personal, y ahora tenemos una sociedad basada en el conocimiento a través de producción de información. Si desea tomar decisiones correctas, es importante que la información relevante sea enviada de manera rápida, orientada a la necesidad y comprensible. La información debe estar en el tiempo y en el lugar correcto, y además debe ser de calidad. 
 
-The goal of this page is to make you a more proficient developer. You'll find only resources that I've found truly inspiring, or that have become timeless classics.
+Para generar conocimiento de manera exitosa es indispensable que la empresa tenga la capacidad para combinar de manera eficiente los componentes y las fuentes generadoras de este conocimiento. Pero se requiere del aporte del conocimiento individual de los miembros de la organización para transformarlo en conocimiento colectivo y organizativo.
 
-This page is not meant to be comprehensive. I am trying to keep it light and not too overwhelming. The selection of articles is opinionated.
+En general, el conocimiento colectivo adquiere valor cuando se acumula por la comunicación entre los miembros de una organización. En este sentido, la comunicación ayuda a complementar y desarrollar aún más el conocimiento individual. Por lo tanto, las empresas deben enfrentar este desafío y fomentar el proceso de transferencia de conocimiento individual a colectivo y viceversa.
+
+Este proceso permite a las empresas obtener una ventaja de conocimiento, por ejemplo, sobre sus competidores. Hablamos de una "base de conocimiento organizacional" si el conocimiento completo de una organización se acumula a través de procesos especiales. Al transferir el conocimiento individual al conocimiento colectivo y viceversa, la base de conocimiento organizacional está sujeta a cambios permanentes. Estrictamente hablando, estos cambios desencadenan un proceso de aprendizaje continuo dentro de la organización. Las organizaciones deben someterse a un aprendizaje continuo.
+
 
 ## Arquitecturas de Gestión del Conocimiento
 
