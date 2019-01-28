@@ -114,7 +114,15 @@ Fig. 1.4 Sensitization – Improvement – Sharing (SIS Model). ‘Sensitization
 
 Este capítulo comienza con una definición de Gestión del Conocimiento. Una comparación de los diversos tipos de conocimiento ayudará a distinguir las formas entre sí. Después de explicar los tipos de conocimiento, se presentarán los conceptos y los enfoques teóricos de la Gestión del Conocimiento. Uno de estos conceptos es "El modelo SECI" de Nonaka / Takeuchi que se divide en una dimensión epistemológica y ontológica. El segundo concepto es el "Modelo de Gestión del Conocimiento de Munich" de Reinmann-Rothmeier. Dentro de este modelo, el conocimiento se compara con los diferentes estados del agua.
 
-**DEfinicion y Tipos de Conocimiento**
+**Definicion y Tipos de Conocimiento**
+
+La gestión del conocimiento se ha vuelto cada vez más importante en los últimos años. Pero, ¿qué es exactamente KM? No hay una definición única acordada de este término. Nahapiet y Ghoshal lo definieron como la tarea de desarrollar y explotar los recursos tangibles e intangibles de una empresa. Los activos tangibles incluyen información y conocimiento basado en la experiencia sobre clientes, productos, competidores, etc. Los activos intangibles incluyen las competencias y los recursos de conocimiento de los empleados en una empresa.
+
+El conocimiento en sí está dividido en varios tipos y estos se explican a continuación. También se hacen recomendaciones para cada tipo.
+
+### Conocimiento interno vs. externo
+
+El conocimiento interno se deriva de las fuentes de información dentro de una organización, por ejemplo, Especialistas en EDP. Por el contrario, el conocimiento externo está disponible desde el exterior, por ejemplo, de Internet o de expertos de otras compañías, y por lo tanto necesita ser adquirido. La adquisición de conocimiento de fuentes externas a menudo es ventajosa porque no hay necesidad dentro de la empresa de un proceso de desarrollo de conocimiento a largo plazo que lleve mucho tiempo. En muchos casos, el uso de fuentes de conocimiento externas es incluso una necesidad. Hoy en día, es imposible que alguien tenga todos los conocimientos y habilidades requeridos. El conocimiento está aumentando rápidamente y la cantidad de fuentes de información también está aumentando. En vista de estos hechos, no hay posibilidad de que las personas se mantengan al tanto de todo y en todo momento. Finalmente, debe mencionarse que el conocimiento interno dentro de una empresa puede usarse directamente mientras que el conocimiento externo no está disponible directamente, pero puede ser de gran interés.
 
 ## Adquisición de conocimientos Dato, información y conocimiento
 
