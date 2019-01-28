@@ -114,5 +114,7 @@ Fig. 1.4 Sensitization – Improvement – Sharing (SIS Model). ‘Sensitization
 
 Este capítulo comienza con una definición de Gestión del Conocimiento. Una comparación de los diversos tipos de conocimiento ayudará a distinguir las formas entre sí. Después de explicar los tipos de conocimiento, se presentarán los conceptos y los enfoques teóricos de la Gestión del Conocimiento. Uno de estos conceptos es "El modelo SECI" de Nonaka / Takeuchi que se divide en una dimensión epistemológica y ontológica. El segundo concepto es el "Modelo de Gestión del Conocimiento de Munich" de Reinmann-Rothmeier. Dentro de este modelo, el conocimiento se compara con los diferentes estados del agua.
 
+**DEfinicion y Tipos de Conocimiento**
+
 ## Adquisición de conocimientos Dato, información y conocimiento
 
