@@ -1,5 +1,11 @@
 # Internet - Búsqueda en línea e investigación
-![alt text](gtyc/pics-search/search.png "Logo Title Text 1")
+![](gtyc/pics-search/search.png "Logo Title Text 1")
+
+<!--
+<img src="markdownmonstericon.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+-->
 
 Considere la forma en que normalmente encuentra información en línea y complete esta breve encuesta para identificar qué motor de búsqueda utiliza con más frecuencia. Si su motor de búsqueda no está en esta lista, compártala en la sección de comentarios.
 
