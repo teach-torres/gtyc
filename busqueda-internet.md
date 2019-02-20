@@ -1,5 +1,5 @@
 # Internet - Búsqueda en línea e investigación
-![Busqueda en linea](https://drive.google.com/file/d/1oU3b-5bqNzbOmPaiGy_sotrssmECAnI-/view?usp=sharing)
+![Busqueda en linea](gtyc/pics-search/search.png)
 
 Considere la forma en que normalmente encuentra información en línea y complete esta breve encuesta para identificar qué motor de búsqueda utiliza con más frecuencia. Si su motor de búsqueda no está en esta lista, compártala en la sección de comentarios.
 
