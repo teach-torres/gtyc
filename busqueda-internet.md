@@ -14,17 +14,17 @@ Use los comentarios para explicar por qué usa su motor de búsqueda elegido.
 * ¿Qué características de este motor de búsqueda te parecen útiles?
 
 
-![scholar](https://scholar.google.co.uk/)
+[scholar](https://scholar.google.co.uk/)
 
-![books](https://books.google.co.uk/)
+[books](https://books.google.co.uk/)
 
-![bing](https://www.bing.com/?scope=images&nr=1&FORM=NOFORM)
+[bing](https://www.bing.com/?scope=images&nr=1&FORM=NOFORM)
 
-![europeana](https://www.europeana.eu/portal/en)
+[europeana](https://www.europeana.eu/portal/en)
 
-![worldcat](https://www.worldcat.org/)
+[worldcat](https://www.worldcat.org/)
 
-![refseek](https://www.refseek.com/)
+[refseek](https://www.refseek.com/)
 
 <!--
 https://www.refseek.com/directory/
