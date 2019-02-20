@@ -2,6 +2,10 @@
 ![](https://github.com/teach-torres/gtyc/tree/master/pics-search/search.png "Logo Title Text 1")
 
 <!--
+
+https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
+
+
 <img src="markdownmonstericon.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
